@@ -1,5 +1,5 @@
-let firstNumber;
 let operator;
+let firstNumber;
 let secondNumber;
 
 function add(a, b) {
